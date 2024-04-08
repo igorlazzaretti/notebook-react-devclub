@@ -12,6 +12,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-color: var(--cinzamuitoescuro);
 }
 
 p, h1, h2, h3, li{
@@ -62,7 +63,10 @@ aside img{
 main{
     border-left: 3px dotted var(--rosinha);
     background-color: var(--crinzaescuro);
-    width: 75vw;
+    width: 60vw;
     padding-left: 10px;
     padding-top: 5px;
+}
+main img{
+    max-width: 350px;
 }
