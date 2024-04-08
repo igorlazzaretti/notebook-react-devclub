@@ -1,0 +1,47 @@
+@import url(https://igorlazzaretti.com/resetcss);
+
+/* Rootes */
+:root{
+    --cinzamuitoescuro: #3a3a3a;
+    --crinzaescuro: #45503B; 
+    --rosinha: #B098A4;
+}
+
+
+body{
+    width: 100vw;
+    height: 100vh;
+}
+main{
+    display: grid;
+    grid-template-areas: 
+    "aside main"
+    "footer footer"
+}
+aside{
+    grid-area: aside;
+    min-height: 80vh;
+    width: 10px;
+    max-width: 100px;
+    background-color: var(--crinzaescuro);
+}
+aside img{
+    width: 100px;
+}
+
+
+
+
+section{
+    grid-area: main;
+    min-width: 80vh;
+    min-height: 80vh;
+    background-color: var(--crinzaescuro);
+
+}
+footer{
+    grid-area: footer;
+    width: 100vw;
+    height: 200px;
+    background-color: var(--cinzamuitoescuro);
+}
