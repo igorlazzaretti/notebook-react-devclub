@@ -1,47 +1,65 @@
-@import url(https://igorlazzaretti.com/resetcss);
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400..800&display=swap');
+
 
 /* Rootes */
 :root{
     --cinzamuitoescuro: #3a3a3a;
-    --crinzaescuro: #45503B; 
+    --crinzaescuro: #646464; 
     --rosinha: #B098A4;
 }
 
-
-body{
-    width: 100vw;
-    height: 100vh;
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
 }
-main{
+
+p, h1, h2, h3, li{
+  font-family: "Syne", sans-serif;
+  color: aliceblue;
+}
+li{
+    
+    color: var(--rosinha);
+}
+
+.container {
     display: grid;
-    grid-template-areas: 
-    "aside main"
-    "footer footer"
+    grid-template-columns: 1fr 4fr; /* Define a largura das colunas */
+}
+
+/* Estilos específicos para cada seção */
+footer {
+    background-color:var(--cinzamuitoescuro);
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    height: 120px;
+} 
+footer p:hover{
+    color: var(--rosinha);
+}
+aside p:hover{
+    color: var(--rosinha);
+}
+
+aside, main {
+    width: 100%;
+    text-align: center;
 }
 aside{
-    grid-area: aside;
-    min-height: 80vh;
-    width: 10px;
-    max-width: 100px;
     background-color: var(--crinzaescuro);
-}
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
 aside img{
-    width: 100px;
+    width: 200px;
 }
-
-
-
-
-section{
-    grid-area: main;
-    min-width: 80vh;
-    min-height: 80vh;
+main{
+    border-left: 3px dotted var(--rosinha);
     background-color: var(--crinzaescuro);
-
-}
-footer{
-    grid-area: footer;
-    width: 100vw;
-    height: 200px;
-    background-color: var(--cinzamuitoescuro);
 }
