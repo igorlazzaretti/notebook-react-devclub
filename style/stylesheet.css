@@ -46,7 +46,7 @@ aside p:hover{
     color: var(--rosinha);
 }
 
-aside, main {
+aside{
     width: 100%;
     text-align: center;
 }
@@ -62,4 +62,7 @@ aside img{
 main{
     border-left: 3px dotted var(--rosinha);
     background-color: var(--crinzaescuro);
+    width: 75vw;
+    padding-left: 10px;
+    padding-top: 5px;
 }
