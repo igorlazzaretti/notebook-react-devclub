@@ -1,7 +1,7 @@
-## Javascrip Avançado DevClub
+## Typescript DevClub
 
 <div align="center">
-   <img width="210"src="./assets/images/readme/logo.jpg">
+   <img width="210"src="./assets/images/readme/mainlogo.jpg">
 </div>
 
 ## Sobre o Curso
@@ -16,7 +16,7 @@ Sem contar com as aulas liberadas constantemente como potencializador do seu apr
 
 <img  width="210" src="./assets/images/readme/devclubico.png"> </div>
 
-## Sobre o Professor
+## Sobre o Criador
 
 Sou ex-eletricista do Metrô de São Paulo e fiz a minha transição de carreira graças a programação.
 
@@ -28,14 +28,14 @@ Meu primeiro emprego foi como programador no Santander, mas também já trabalhe
 
 Hoje o meu propósito é ajudar o máximo de pessoas a transformarem suas vidas por meio da programação.
 
+
+
 <div align="center">
 <img src="./assets/images/readme/rodlfomori.PNG" width="140" style="border-radius:60px"><br><a href="https://www.linkedin.com/in/rodolfomori/" target="_blank">Rodolfo Mori</a>
 
-</div>
-
 ## Tecnologias Utilizadas
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
 </div>
 
 ## Sobre o Aluno
