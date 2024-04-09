@@ -1,7 +1,7 @@
 ## Meu Caderno de React - DevClub
 
 <div align="center">
-   <img width="210"src="./assets/images/readme/mainlogo.jpg">
+   <img width="310"src="./assets/images/readme/mainlogo.jpg">
 </div>
 
 ## Sobre o Curso
