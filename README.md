@@ -16,8 +16,17 @@ Sem contar com as aulas liberadas constantemente como potencializador do seu apr
 
 <img  width="210" src="./assets/images/readme/devclubico.png"> </div>
 
-## Sobre esta Formação
+## Sobre o Professor
 
+Sou ex-eletricista do Metrô de São Paulo e fiz a minha transição de carreira graças a programação.
+
+Comecei no mercado aos “trancos e barrancos”, estudando no meu tempo livre que tinha nos feriados e fins de semana para me tornar programador.
+
+Tomei 13 NÃOs antes de aparecer meu primeiro SIM, mas ele veio – mesmo sem ter faculdade!
+
+Meu primeiro emprego foi como programador no Santander, mas também já trabalhei em empresas como BTG Pactual, PI Investimentos e Toro Investimentos.
+
+Hoje o meu propósito é ajudar o máximo de pessoas a transformarem suas vidas por meio da programação, assim como eu transformei a minha, com você podendo trabalhar de onde quiser, somente com o seu computador.
 
 <div align="center">
 <img src="./assets/images/readme/rodlfomori.PNG" width="140" style="border-radius:60px"><br><a href="https://www.linkedin.com/in/rodolfomori/" target="_blank">Rodolfo Mori</a>
@@ -34,7 +43,7 @@ Sem contar com as aulas liberadas constantemente como potencializador do seu apr
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=600&size=30&duration=3000&pause=700&color=ED51F7&center=true&vCenter=true&random=false&width=490&height=55&lines=Ol%C3%A1!+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Meu+nome+%C3%A9+Igor;Hello!+%F0%9F%91%8B+My+name+is+Igor)](https://git.io/typing-svg)
 
-<img src="https://scontent.fcxj17-1.fna.fbcdn.net/v/t39.30808-1/410894894_7330500726969644_928945232552738855_n.jpg?stp=dst-jpg_p200x200&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFjsjp5NTnkdsip4BQRzywMeBJN9nP0uIR4Ek32c_S4hF_Hmr-_sEOB2mWGD0yeElOKIlEf_73mnXmGp36XbWqe&_nc_ohc=rHW9Bam3k9YAX8GfxcS&_nc_ht=scontent.fcxj17-1.fna&oh=00_AfChS_D3VeCigb97Pb-tqjrSRMN_0f1A-nmL-m7k28gUpw&oe=660B18DD" width="150" style="border-radius:60px">
+<img src="./assets/images/readme/igor.png" width="190" style="border-radius:60px">
 
 </div>
 
