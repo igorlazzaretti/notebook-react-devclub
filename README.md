@@ -18,6 +18,11 @@ Sem contar com as aulas liberadas constantemente como potencializador do seu apr
 
 ## Sobre o Professor
 
+Sou ex-eletricista do Metrô de São Paulo e fiz a minha transição de carreira graças a programação. Comecei no mercado aos “trancos e barrancos”, estudando no meu tempo livre que tinha nos feriados e fins de semana para me tornar programador.
+
+Tomei 13 NÃOs antes de aparecer meu primeiro SIM, mas ele veio – mesmo sem ter faculdade! Meu primeiro emprego foi como programador no Santander, mas também já trabalhei em empresas como BTG Pactual, PI Investimentos e Toro Investimentos.
+
+Hoje o meu propósito é ajudar o máximo de pessoas a transformarem suas vidas por meio da programação.
 
 
 <div align="center">
