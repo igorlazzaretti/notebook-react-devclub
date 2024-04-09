@@ -21,12 +21,12 @@ Sem contar com as aulas liberadas constantemente como potencializador do seu apr
 
 
 <div align="center">
-<img src="./assets/images/readme/agustinho.jpg" width="140" style="border-radius:60px"><br><a href="https://www.linkedin.com/in/agustinhopneto/" target="_blank">Agustinho P Neto</a>
+<img src="./assets/images/readme/rodolfomori.PNG" width="140" style="border-radius:60px"><br><a href="https://www.linkedin.com/in/agustinhopneto/" target="_blank">Rodolfo Mori</a>
 </div>
 
 ## Tecnologias Utilizadas
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
 </div>
 
 ## Sobre o Aluno
@@ -63,3 +63,8 @@ Sem contar com as aulas liberadas constantemente como potencializador do seu apr
 </div>
 
 
+<!-- ICONES
+
+https://devicon.dev/
+
+ -->
