@@ -26,7 +26,7 @@ Tomei 13 NÃOs antes de aparecer meu primeiro SIM, mas ele veio – mesmo sem te
 
 Meu primeiro emprego foi como programador no Santander, mas também já trabalhei em empresas como BTG Pactual, PI Investimentos e Toro Investimentos.
 
-Hoje o meu propósito é ajudar o máximo de pessoas a transformarem suas vidas por meio da programação, assim como eu transformei a minha, com você podendo trabalhar de onde quiser, somente com o seu computador.
+Hoje o meu propósito é ajudar o máximo de pessoas a transformarem suas vidas por meio da programação.
 
 <div align="center">
 <img src="./assets/images/readme/rodlfomori.PNG" width="140" style="border-radius:60px"><br><a href="https://www.linkedin.com/in/rodolfomori/" target="_blank">Rodolfo Mori</a>
