@@ -16,22 +16,23 @@ Sem contar com as aulas liberadas constantemente como potencializador do seu apr
 
 <img  width="210" src="./assets/images/readme/devclubico.png"> </div>
 
-## Sobre o Criador
+## Sobre o Professor
 
-Sou ex-eletricista do Metrô de São Paulo e fiz a minha transição de carreira graças a programação.
+Sou um desenvolvedor de software com mais de 6 anos de experiência na criação de produtos digitais e serviços inovadores. Tenho uma paixão por buscar ambientes que me proporcionem o desenvolvimento contínuo de minhas habilidades técnicas e de liderança, enquanto também contribuo para o crescimento e aprimoramento das pessoas ao meu redor.
 
-Comecei no mercado aos “trancos e barrancos”, estudando no meu tempo livre que tinha nos feriados e fins de semana para me tornar programador.
+Minha motivação é fazer parte da construção de aplicações que não apenas atendam às necessidades do mercado, mas que também tenham um impacto positivo e significativo na vida das pessoas. Sou um entusiasta da colaboração interdisciplinar, acreditando que as melhores soluções surgem quando diferentes áreas se unem para enfrentar desafios complexos. Sou proativo por natureza e sempre busco maneiras de inovar e aprimorar processos, garantindo que nosso trabalho esteja sempre na vanguarda da tecnologia.
 
-Tomei 13 NÃOs antes de aparecer meu primeiro SIM, mas ele veio – mesmo sem ter faculdade!
+Meu compromisso com a excelência é evidente em minha busca constante pelo aprendizado. Estou sempre atualizado com as mais recentes tecnologias, ferramentas e tendências de arquitetura de software. Além disso, estou constantemente explorando como aplicar esse conhecimento em meu dia a dia, a fim de criar soluções mais eficientes e eficazes.
 
-Meu primeiro emprego foi como programador no Santander, mas também já trabalhei em empresas como BTG Pactual, PI Investimentos e Toro Investimentos.
+Estou ansioso para fazer parte de equipes inspiradoras e projetos desafiadores, onde posso contribuir com minha experiência e paixão pela tecnologia, ajudando a moldar um futuro digital mais promissor e impactante para todos.
 
-Hoje o meu propósito é ajudar o máximo de pessoas a transformarem suas vidas por meio da programação.
+GitHub: https://github.com/agustinhopneto
 
 
 
 <div align="center">
-<img src="./assets/images/readme/rodlfomori.PNG" width="140" style="border-radius:60px"><br><a href="https://www.linkedin.com/in/rodolfomori/" target="_blank">Rodolfo Mori</a>
+<img src="./assets/images/readme/agustinho.jpg" width="140" style="border-radius:60px"><br><a href="https://www.linkedin.com/in/agustinhopneto/" target="_blank">Agustinho P Neto</a>
+</div>
 
 ## Tecnologias Utilizadas
 <div align="center">
