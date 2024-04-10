@@ -75,6 +75,10 @@ main{
     line-height: 30px;
     font-family: "Comfortaa", sans-serif;
 }
+figure:hover{
+    color: #B098A4;
+    transform:translateX(30px)
+}
 main img{
     max-width: 550px;
 }
